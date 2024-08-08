@@ -8,19 +8,16 @@ This paper can be accessed [here](https://docs.google.com/document/d/11gtCtIV1KO
 <img width="621" alt="image1" src="https://github.com/user-attachments/assets/636b5135-66c8-460a-8935-a004a5ebb3d2">
 
 ### Outcome of DPM on data
-<img width="621" alt="image6" src="https://github.com/user-attachments/assets/e6b75735-20ab-47e9-917b-926596b1ec84">
+<img width="631" alt="image2" src="https://github.com/user-attachments/assets/1f8670d7-0990-47f8-9e88-95cc1ade3016">
 
 ### Validation Set Outcomes
-<img width="631" alt="image2" src="https://github.com/user-attachments/assets/1f8670d7-0990-47f8-9e88-95cc1ade3016">
+<img width="564" alt="image4" src="https://github.com/user-attachments/assets/68f6457e-80b9-436a-9c5d-bfd06800e091">
 
 ### Performance metrics YOLOv8 model trained
 <img width="636" alt="image5" src="https://github.com/user-attachments/assets/83d8f12e-ab4d-4bb6-b955-62d397d208ab">
 
 ### Outcome of trained model on unseen data
-<img width="608" alt="image3" src="https://github.com/user-attachments/assets/18cdaac0-5c66-45f6-bc50-bb617e4e5432">
-
-### How I classified video streams' parts
-<img width="564" alt="image4" src="https://github.com/user-attachments/assets/68f6457e-80b9-436a-9c5d-bfd06800e091">
+<img width="621" alt="image6" src="https://github.com/user-attachments/assets/e6b75735-20ab-47e9-917b-926596b1ec84">
 
 
 
